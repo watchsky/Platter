@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header>Template1</soapenv:Header>
+    <soapenv:Body>
+        <Content1>$p1</Content1>
+        <Content2>$template2</Content2>
+        <Content3>$template3</Content3>
+    </soapenv:Body>
+</soapenv:Envelope>
